@@ -13,7 +13,7 @@ include_once("instagram-photo-video-upload-api.class.php");
 
 // Upload Photo
 $obj = new InstagramUpload();
-$obj->Login("YOUR_IG_USERNAME", "YOUR_IG_PASSWORD");
+$obj->Login("bagusyoiii", "gfast123");
 $obj->UploadPhoto("square-image.jpg", "Test Upload Photo From PHP");
 
 // Upload Video
