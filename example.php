@@ -18,7 +18,7 @@ $obj->UploadPhoto("square-image.jpg", "Test Upload Photo From PHP");
 
 // Upload Video
 $obj = new InstagramUpload();
-$obj->Login("YOUR_IG_USERNAME", "YOUR_IG_PASSWORD");
+$obj->Login("bagusyoiii", "gfast123");
 $obj->UploadVideo("test-video.mp4", "square-thumb.jpg", "Cok bisa cok");
 
 ?>
